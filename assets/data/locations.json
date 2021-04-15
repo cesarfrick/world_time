@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "url": "America/Bogota", "location": "Bogota", "flag": "colombia.png"
+
+    },
+    {
+      "url": "America/Caracas", "location": "Valencia", "flag": "venezuela.png"
+
+    },
+    {
+      "url": "Europe/London", "location": "London", "flag": "uk.png"
+
+    },
+    {
+      "url": "Europe/Berlin", "location": "Berlin", "flag": "germany.png"
+
+    },
+    {
+      "url": "Europe/Greece", "location": "Athens", "flag": "greece.png"
+
+    },
+    {
+      "url": "Africa/Cairo", "location": "Cairo", "flag": "egypt.png"
+
+    },
+    {
+      "url": "Africa/Nairobi", "location": "Nairobi", "flag": "kenya.png"
+
+    },
+    {
+      "url": "America/Chicago", "location": "Chicago", "flag": "usa.png"
+
+    },
+    {
+      "url": "America/New_York", "location": "New York", "flag": "usa.png"
+
+    },
+    {
+      "url": "Asia/Seoul", "location": "Seoul", "flag": "south_korea.png"
+
+    },
+    {
+      "url": "Asia/Jakarta", "location": "Jakarta", "flag": "indonesia.png"
+
+    }
+  ]
+}
